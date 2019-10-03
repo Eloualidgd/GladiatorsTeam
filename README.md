@@ -1,1 +1,1 @@
-# GladiatorsTeam
+# gladiators
